@@ -2,7 +2,7 @@
 
 ## Collaborators
 
-Anthony
-Angelica
-Paul
-Sam
+- Anthony
+- Angelica
+- Paul
+- Sam
