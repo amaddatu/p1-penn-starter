@@ -2,6 +2,6 @@
 
 ## Collaborators
 
-Anthony
-Angelica
-Paul
+- Anthony
+- Angelica
+- Paul
